@@ -12,5 +12,11 @@ public class Variables_01 {
         * 'final' can be used as a constant*/
         final int setVarInt = 20;
         System.out.println(setVarInt);
+
+        /*Multiple declarations - assignations*/
+        int x = 5, y = 6, z =50;
+        System.out.println("\nX value is: "+x);
+        System.out.println("\nY value is: "+y);
+        System.out.println("\nZ value is: "+z);
     }
 }
