@@ -10,6 +10,6 @@ public class OperatorPrecedence_09 {
         System.out.println("\na+b/d = "+(a+b/d));
         System.out.println("a+b/d = "+((a+b)/d));
         System.out.println("a+b/c-d = "+(a+b/c-d));
-        System.out.println("a+b/(c-d) = "+(a+b/c-d));
+        System.out.println("a+b/(c-d) = "+(a+b/(c-d)));
     }
 }
